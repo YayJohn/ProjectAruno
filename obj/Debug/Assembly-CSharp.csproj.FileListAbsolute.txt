@@ -1,0 +1,2 @@
+C:\Program Files\Unity\Projects\TheCoolGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Program Files\Unity\Projects\TheCoolGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
